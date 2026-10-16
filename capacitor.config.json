@@ -1,0 +1,10 @@
+{
+  "appId": "com.elton.ritmo",
+  "appName": "Ritmo",
+  "webDir": "www",
+  "backgroundColor": "#EEF1EE",
+  "ios": {
+    "contentInset": "never",
+    "backgroundColor": "#EEF1EE"
+  }
+}
